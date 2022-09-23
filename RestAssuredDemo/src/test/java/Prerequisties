@@ -1,0 +1,16 @@
+add-restassured and testng libraries
+then add json simple for json body functions
+static import io.restassured .*
+to fetch the data values we need hamcrest import
+
+to create our own mock api's 
+mockkon.com
+json-server
+
+innstall nodejs
+node -v(will give the  version)
+
+https://github.com/typicode/json-server
+npm install -g json-server
+
+json-server --watch db.json
